@@ -1,5 +1,6 @@
-### Hi there 👋
+### Welcome ! 👋
 
+![alt text](BOT.png)
 <!--
 **BOTnabil/BOTnabil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi ! My name is Nabil, I am an intern in Elan Formation trying to improve in different languages.
+
+I love coding and tought it would be fun to make it my profession so here I am !
+
+- 🌱 I’m currently learning PHP OOP
+- 📫 Linkedin : Nabil Assatour
+- 😄 Pronouns: He/Him
