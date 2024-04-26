@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi ! My name is Nabil, I am an intern in Elan Formation trying to improve in different languages.
+Hi ! My name is Nabil, I am an intern at Elan Formation trying to improve in different languages.
 
 I love coding and tought it would be fun to make it my profession so here I am !
 
