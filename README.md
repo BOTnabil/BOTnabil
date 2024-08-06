@@ -19,6 +19,6 @@ Hi ! My name is Nabil, I am an intern at Elan Formation trying to improve in dif
 
 I love coding and tought it would be fun to make it my profession so here I am !
 
-- 🌱 I’m currently learning PHP OOP
+- 🌱 I’m currently working on my professional project for my internship
 - 📫 Linkedin : Nabil Assatour
 - 😄 Pronouns: He/Him
