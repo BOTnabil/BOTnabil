@@ -24,5 +24,5 @@ You can reach me there : [Nabil Assatour](https://www.linkedin.com/in/nabil-assa
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Huge Elden Ring nerd
 
-Languages and Tools :
+Languages and Tools : ( <br> )
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,symfony,git,figma,ps,pr)](https://skillicons.dev)
