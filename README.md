@@ -20,7 +20,7 @@ I love coding and tought it would be fun to make it my profession so here I am !
 
 You can reach me there : [Nabil Assatour](https://www.linkedin.com/in/nabil-assatour-010196302/)
 
-- 🌱 I’m currently working on my professional project for my internship
+- 🌱 I’m currently working on my professional project for my internship, more infos bellow
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Huge Elden Ring nerd
 
@@ -32,3 +32,8 @@ You can reach me there : [Nabil Assatour](https://www.linkedin.com/in/nabil-assa
  <img src ="https://github-readme-stats.vercel.app/api?username=BOTnabil&show_icons=true&theme=midnight-purple" height = 200px>
  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=BOTnabil&layout=compact&theme=midnight-purple" height = 200px>
 <br>
+## 👨🏻‍💻 Currently working on "OhMyBeauty" !
+<br>
+![alt text](OMB MAQUETTE.png)
+<br>
+Take a look on the freshly new project OMB, where the goal is to be able to make reservations as well as product orders on the brand's website !
