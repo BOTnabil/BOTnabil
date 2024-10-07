@@ -28,6 +28,6 @@ Languages and Tools :  <br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,symfony,git,figma,ps,pr)](https://skillicons.dev)
 <br>
 <br>
- <img src ="https://github-readme-stats.vercel.app/api?username=BOTnabil&show_icons=true&theme=midnight-purple" height = 150px>
- <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=BOTnabil&layout=compact&theme=midnight-purple" height = 150px>
+ <img src ="https://github-readme-stats.vercel.app/api?username=BOTnabil&show_icons=true&theme=midnight-purple" height = 170px>
+ <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=BOTnabil&layout=compact&theme=midnight-purple" height = 170px>
 <br>
