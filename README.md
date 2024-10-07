@@ -34,6 +34,5 @@ You can reach me there : [Nabil Assatour](https://www.linkedin.com/in/nabil-assa
 <br>
 ## 👨🏻‍💻 Currently working on "OhMyBeauty" !
 <br>
-![alt text](OMB MAQUETTE.png)
-<br>
-Take a look on the freshly new project OMB, where the goal is to be able to make reservations as well as product orders on the brand's website !
+Take a look on the freshly new project OMB, where the goal is to be able to make reservations as well as product orders on the brand's website ! <br>
+<img src ="OMB MAQUETTE.png">
