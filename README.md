@@ -29,5 +29,5 @@ Languages and Tools :  <br>
 <br>
 <br>
  <img src ="https://github-readme-stats.vercel.app/api?username=BOTnabil&show_icons=true&theme=midnight-purple">
- <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=BOTnabil&size_weight=0.5&count_weight=0.5">
+ <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=BOTnabil">
 <br>
