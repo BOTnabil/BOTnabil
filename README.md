@@ -28,6 +28,9 @@ Languages and Tools :  <br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,symfony,git,figma,ps,pr)](https://skillicons.dev)
 <br>
 <br>
+<p align=start width=50% height=400px>
  <img src ="https://github-readme-stats.vercel.app/api?username=BOTnabil&show_icons=true&theme=midnight-purple">
- <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=BOTnabil&layout=donut">
+</p>
+<p align=end width=50% height=400px>
+ <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=BOTnabil&layout=compact"></p>
 <br>
