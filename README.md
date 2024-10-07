@@ -19,7 +19,7 @@ Hi ! My name is Nabil, I am an intern at Elan Formation trying to improve in dif
 
 I love coding and tought it would be fun to make it my profession so here I am !
 
-You can reach me there : [<img src="linkedin.webp">](https://www.linkedin.com/in/nabil-assatour-010196302/)
+You can reach me there : [<img src="linkedin.png">](https://www.linkedin.com/in/nabil-assatour-010196302/)
 
 - 🌱 I’m currently working on my professional project for my internship
 - 📫 Linkedin : [Nabil Assatour](https://www.linkedin.com/in/nabil-assatour-010196302/)
