@@ -28,7 +28,6 @@ Languages and Tools :  <br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,symfony,git,figma,ps,pr)](https://skillicons.dev)
 <br>
 <br>
-<p align = center>
  <img src ="https://github-readme-stats.vercel.app/api?username=BOTnabil&show_icons=true&theme=midnight-purple">
-</p>
+ <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=BOTnabil&size_weight=0.5&count_weight=0.5">
 <br>
