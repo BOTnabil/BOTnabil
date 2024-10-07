@@ -29,6 +29,6 @@ Languages and Tools :  <br>
 <br>
 <br>
 <p align = center>
- ![My stats !](https://github-readme-stats.vercel.app/api?username=BOTnabil&show_icons=true&theme=midnight-purple)
+ <img src ="https://github-readme-stats.vercel.app/api?username=BOTnabil&show_icons=true&theme=midnight-purple">
 </p>
 <br>
