@@ -33,7 +33,7 @@ You can reach me there : [Nabil Assatour](https://www.linkedin.com/in/nabil-assa
  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=BOTnabil&layout=compact&theme=midnight-purple" height = 200px>
 <br>
  
-### 👨🏻‍💻 Currently working on "OhMyBeauty" !
+## 👨🏻‍💻 Currently working on "OhMyBeauty" !
 
 <br>
 Take a look on the freshly new project OMB, where the goal is to be able to make reservations as well as product orders on the brand's website ! <br>
