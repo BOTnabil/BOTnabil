@@ -29,7 +29,6 @@ You can reach me there : [Nabil Assatour](https://www.linkedin.com/in/nabil-assa
 <br>
 ## 📈 My Github History
 <br>
-<br>
- <img src ="https://github-readme-stats.vercel.app/api?username=BOTnabil&show_icons=true&theme=midnight-purple" height = 180px>
- <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=BOTnabil&layout=compact&theme=midnight-purple" height = 180px>
+ <img src ="https://github-readme-stats.vercel.app/api?username=BOTnabil&show_icons=true&theme=midnight-purple" height = 100px>
+ <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=BOTnabil&layout=compact&theme=midnight-purple" height = 100px>
 <br>
