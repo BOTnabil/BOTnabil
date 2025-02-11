@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi ! My name is Nabil, I am an intern at Elan Formation trying to improve in different languages. <br> 
-I love coding and tought it would be fun to make it my profession so here I am !
+Hi !  I am trying to improve in different languages. <br> 
+I love coding and tought it would be fun to make it my profession.
 
 You can reach me there : [Nabil Assatour](https://www.linkedin.com/in/nabil-assatour-010196302/)
 
 - 🌱 I’m currently working on my professional project for my internship, more infos bellow
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Huge Elden Ring nerd
+- ⚡ Fun fact: Huge Persona nerd
 
 ## 🛠️ Languages and Tools :  <br> 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,symfony,git,figma,ps,pr)](https://skillicons.dev)
