@@ -20,7 +20,7 @@ I love coding and tought it would be fun to make it my profession.
 
 You can reach me there : [Nabil Assatour](https://www.linkedin.com/in/nabil-assatour-010196302/)
 
-- 🌱 I’m currently working on my professional project for my internship, more infos bellow
+- 🌱 I’m currently working on my professional project, more infos bellow
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Huge Persona nerd
 
